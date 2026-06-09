@@ -1,15 +1,11 @@
-````md
 # 3D Modeling & Animation - Teapot and Cup Scene
 
 Ατομική εργασία για τη δημιουργία 3D σκηνής στο Blender, με μοντελοποίηση, φωτισμό, texture painting και animation. Το project περιλαμβάνει δύο cartoon χαρακτήρες, μία τσαγιέρα και ένα φλιτζάνι, που δημιουργήθηκαν από βασικά γεωμετρικά σχήματα και αποδόθηκαν σε τελικό video animation.
 
-## Demo Video
+Demo Video
+----------
 
-Το τελικό animation του project είναι διαθέσιμο μέσα στο repository ως αρχείο video:
-
-[`iis24029_final.mp4`](./iis24029_final.mp4)
-
-Το video παρουσιάζει την τελική 3D σκηνή με την cartoon τσαγιέρα και το φλιτζάνι, μαζί με το animation που δημιουργήθηκε στο Blender.
+https://github.com/user-attachments/assets/a01f46c2-aa2b-436a-a6e2-be00d8cb5574
 
 ## Περιγραφή
 
@@ -70,18 +66,18 @@ iis24029/
 ├── cartoon.jpg
 ├── εικόνα τσαγιέρας.jpg
 └── εικόνα φλιτζανιού.jpg
-````
+```
 
 ## Αρχεία project
 
-* `iis24029_final.blend`: τελικό Blender project.
-* `iis24029_final.mp4`: τελικό video animation ανεβασμένο στο repository.
-* `iis24029_final.avi`: αρχικό rendered animation.
-* `iis24029_final.docx`: αναφορά με τα βήματα υλοποίησης.
-* `iis24029_1.blend` έως `iis24029_9.blend`: ενδιάμεσα στάδια της εργασίας.
-* `outputPhotos/`: rendered PNG sequence με 121 frames.
-* `*Base Color*.png`: texture paint αρχεία των αντικειμένων.
-* `εικόνα τσαγιέρας.jpg`, `εικόνα φλιτζανιού.jpg`: εικόνες αναφοράς.
+- `iis24029_final.blend`: τελικό Blender project.
+- `iis24029_final.mp4`: τελικό video animation ανεβασμένο στο repository.
+- `iis24029_final.avi`: αρχικό rendered animation.
+- `iis24029_final.docx`: αναφορά με τα βήματα υλοποίησης.
+- `iis24029_1.blend` έως `iis24029_9.blend`: ενδιάμεσα στάδια της εργασίας.
+- `outputPhotos/`: rendered PNG sequence με 121 frames.
+- `*Base Color*.png`: texture paint αρχεία των αντικειμένων.
+- `εικόνα τσαγιέρας.jpg`, `εικόνα φλιτζανιού.jpg`: εικόνες αναφοράς.
 
 ## Εκτέλεση / Προβολή
 
@@ -90,6 +86,8 @@ iis24029/
 ```text
 iis24029_final.mp4
 ```
+
+ή δείτε το video που εμφανίζεται στην αρχή του README.
 
 Για προβολή ή επεξεργασία του Blender project:
 
@@ -107,5 +105,3 @@ iis24029_final.mp4
 6. Κάντε render το animation.
 
 
-```
-```
